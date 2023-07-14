@@ -36,7 +36,7 @@
             android:paddingLeft="50dp"
             android:layout_weight="1"
             android:paddingRight="50dp"
-            android:text="规则如下:\n(待查字母不可空哦，不然闪退)\n每一名群友轮流开一个字母，开完之后都要公布一次当前的歌曲状态，每位群友都可以在任意时间猜歌名，当所有乐曲名都被猜到或者超过了15min之后，将视为游戏结束。"
+            android:text="规则如下:\n每一名群友轮流开一个字母，开完之后都要公布一次当前的歌曲状态，每位群友都可以在任意时间猜歌名，当所有乐曲名都被猜到或者超过了15min之后，将视为游戏结束。"
             android:textSize="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
